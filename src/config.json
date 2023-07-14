@@ -1,0 +1,20 @@
+{
+	"setting":[{
+		"chromedriver": "F:\\modul_tools\\chromedriver\\chromedriver.exe",
+		"file_upload": "upload.txt",
+		"start":1,
+		"laporan_file": "laporan_upload.csv",
+		"jeda_upload":20,
+		"cookies": "akun.json"
+
+	}],
+	"schedule" : [{
+		"status" : false,
+		"random_hari" : 30
+
+	}],
+	"telegram" : [{
+		"api" : "581081490:AAGzpn-75I2sHy4BUzSM_2wnuYOKsGztVPc",
+		"grub_id" : "-1001495475052"
+	}]
+}
